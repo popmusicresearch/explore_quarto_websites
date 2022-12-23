@@ -2,7 +2,7 @@
 title: "explore_quarto_websites"
 ---
 
-This is a Quarto website.
+Test website with Quarto
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
